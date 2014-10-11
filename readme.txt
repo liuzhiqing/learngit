@@ -1,3 +1,3 @@
 git is a version control system
 git is no software
-git is abc
+git is a
