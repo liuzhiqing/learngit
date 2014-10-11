@@ -1,3 +1,1 @@
-git is a version control system
-git is no software
-git is a
+git is 1
